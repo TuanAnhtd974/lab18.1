@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  background-image: url(https://thumbs.dreamstime.com/b/landscape-nature-view-background-view-window-landscape-nature-view-background-view-window-wonderful-landscape-121459679.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  background-image: url(https://media.istockphoto.com/id/1461317232/photo/sunshine-on-the-field-with-blooming-dandelions-in-natural-park.webp?b=1&s=170667a&w=0&k=20&c=lAemdjEL2mKASavI-DRxnK29-eInRbcmQ0AL5jWp2pM=);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  background-image: url(https://tophinhanhdep.com/wp-content/uploads/2021/10/Background-Wallpapers.jpg);
+}
